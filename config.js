@@ -1,4 +1,4 @@
-const topBarCenterText = `VA3HDL - FN04ga`;
+const topBarCenterText = `NC4FG - FM05PW`;
 
 // Grid layout
 var layout_cols = 4;
@@ -89,25 +89,26 @@ const aIMG = [
     "LIGHTNING LOCAL",
     "https://www.blitzortung.org/en/Images/image_b_ny.png",
   ],
-  ["YOUTUBE EXAMPLE", "iframe|https://www.youtube.com/embed/fzPFaXAV_2Y?autoplay=1&mute=1"],
+ // ["YOUTUBE EXAMPLE", "iframe|https://www.youtube.com/embed/fzPFaXAV_2Y?autoplay=1&mute=1"],
   [
     "WEBSITE EXAMPLE",
     "iframe|https://globe.adsbexchange.com/?airport=YYZ",
   ],
-  ["VIDEO EXAMPLE", "https://himawari8.nict.go.jp/movie/720/20240611_pifd.mp4"],
+ // ["VIDEO EXAMPLE", "https://himawari8.nict.go.jp/movie/720/20240611_pifd.mp4"],
   ["HF PROPAGATION",
     "https://www.hamqsl.com/solar101vhf.php"],
-  [
-    "RS-44 POSITION",
-    "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
-  ],
+  //[
+ //   "RS-44 POSITION",
+ //   "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
+ // ],
   ["Solar WX",
     "https://services.swpc.noaa.gov/images/animations/suvi/primary/map/latest.png"],
   ["HF PROPAGATION",
     "https://www.hamqsl.com/solar100sc.php"],
-  ["HF PROPAGATION",
-    "https://www.hamqsl.com/solarpich.php"],
+ // ["HF PROPAGATION",
+ //   "https://www.hamqsl.com/solarpich.php"],
 ];
 
 // Image rotation intervals in milliseconds per tile - If the line below is commented, all tiles will be rotated every 30000 milliseconds (30s)
-const tileDelay = [11200,10000,11000,10100,10200,10500,10300,10600,30400,60700,60900,10800,30400,60700,60900,10800];
+const tileDelay = [11200,10000,11000,10100,10200,10500,10300,10600,30400,60700,60900,10800];
+//,30400,60700,60900,10800];
