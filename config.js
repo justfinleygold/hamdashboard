@@ -62,7 +62,7 @@ const aIMG = [
   ["RADAR", "https://radar.weather.gov/ridge/standard/CONUS_loop.gif"],
   [
     "LOCAL RADAR",
-    "https://radar.weather.gov/ridge/standard/TRDU_loop.gif",
+    "https://radar.weather.gov/ridge/standard/TRAX_loop.gif",
   ],
   [
     "NOAA D-RAP",
