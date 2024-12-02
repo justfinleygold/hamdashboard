@@ -86,7 +86,7 @@ const aIMG = [
   ],
   [
     "LIGHTNING LOCAL",
-    "https://www.blitzortung.org/en/Images/image_b_nc.png",
+    "https://map.blitzortung.org/#7.15/35.65/-78.84",
   ],
  // ["YOUTUBE EXAMPLE", "iframe|https://www.youtube.com/embed/fzPFaXAV_2Y?autoplay=1&mute=1"],
   [
