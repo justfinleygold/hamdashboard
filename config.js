@@ -39,7 +39,7 @@ const aURL = [
   [
     "2196F3",
     "WEATHER",
-    "https://openweathermap.org/weathermap?basemap=map&cities=true&layer=temperature&lat=35.9356&lon=-786989&zoom=5",
+    "https://openweathermap.org/weathermap?basemap=map&cities=false&layer=temperature&lat=35.9356&lon=-78.6989&zoom=8",
     "1",
     "R",
   ],
@@ -62,7 +62,7 @@ const aIMG = [
   ["RADAR", "https://radar.weather.gov/ridge/standard/CONUS_loop.gif"],
   [
     "LOCAL RADAR",
-    "https://radar.weather.gov/ridge/standard/TRAX_loop.gif",
+    "https://radar.weather.gov/ridge/standard/KRAX_loop.gif",
   ],
   [
     "NOAA D-RAP",
